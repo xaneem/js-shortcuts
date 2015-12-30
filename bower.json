@@ -1,0 +1,17 @@
+{
+  "name": "js-shortcuts",
+  "main": "js-shortcuts.js",
+  "version": "0.1.0",
+  "homepage": "https://github.com/xaneem/js-shortcuts",
+  "authors": [
+    "Binny V A",
+    "Saneem"
+  ],
+  "description": "Easily add combination key-press event listeners in JavaScript. Useful for adding keyboard shortcuts to web applications.",
+  "keywords": [
+    "keyboard shortcuts",
+    "key combination binding",
+    "javascript shortcuts"
+  ],
+  "license": "BSD"
+}
